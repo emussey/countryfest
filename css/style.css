@@ -1,0 +1,29 @@
+body{
+  background-image: url(../Background.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100%;
+}
+
+.logo
+{
+  text-align: center;
+
+  margin-top: 150px;
+  width: 75%;
+}
+
+
+
+.buttonarea{
+  margin-top: 15px;
+  text-align: center;
+}
+
+.eventsButton{
+  background-color: #311911;
+  color: white;
+  border-color: #311911;
+  font-size: 30pt;
+}
